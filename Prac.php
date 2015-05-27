@@ -9,6 +9,7 @@ define("ZBL MABUNDA u11123738");
 echo constant("ZBL MABUNDA u11123738");
 <div>
 <div style = “color:blue”>
+<div style = “font:Segou UI”>
 define("MMC Moraba u29635030");
 echo constant("MMC Moraba u29635030");
 <div>
